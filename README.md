@@ -1,4 +1,7 @@
-# 👩🏻‍💻 Samara Sona
+ <div align="center">
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=30&pause=1000&color=F7F600&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=+Bem+Vindo+ao+meu+Github)](https://git.io/typing-svg)
+</div>
 
 **`Desenvolvedora Frontend`**
 
